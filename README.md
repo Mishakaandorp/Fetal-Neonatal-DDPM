@@ -5,7 +5,8 @@ The work focuses on improving segmentation of pathological regions in fetal and 
 
 The Giff below shows modified pathological label maps derived from healthy labels, wherefrom the pathological synthetic MRI are synthesized. 
 
-![brain_MRI_synthesis](https://github.com/user-attachments/assets/f2ff7ba4-9ff8-4fdc-9ce6-b287d9b73927)
+![image34](https://github.com/user-attachments/assets/d2542b7e-e849-4f06-a2c4-c1e908f5c7ac)
+
 
 This project was supported by the Swiss National Science Foundation (SNSF), grant Nr. IZKSZ3_218590.
 
