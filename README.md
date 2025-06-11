@@ -3,7 +3,7 @@ This repository contains the code for our Fetal&Neonatal-DDPM, a diffusion model
 
 The work focuses on improving segmentation of pathological regions in fetal and neonatal brain MRI by synthesizing pathological training data from healthy scans. This approach addresses the limited availability of annotated pathological data by leveraging generative methods for data augmentation.
 
-The Giff below shows modified pathological label maps derived from healthy labels, wherefrom the pathological synthetic MRI are synthesized. 
+The Giff below shows modified pathological label maps derived from healthy labels, wherefrom the pathological synthetic MRI are synthesized using our Fetal&Neonatal-DDPM.
 
 ![image34](https://github.com/user-attachments/assets/d2542b7e-e849-4f06-a2c4-c1e908f5c7ac)
 
